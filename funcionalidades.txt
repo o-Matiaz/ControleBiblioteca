@@ -5,3 +5,7 @@ fazerEmprestimo()
 findByGenero()
 
 findByLivro()
+
+//nova função
+
+renovarEmprestimo()
