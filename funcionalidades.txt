@@ -1,0 +1,7 @@
+visualizarEmprestimo()
+
+fazerEmprestimo()
+
+findByGenero()
+
+findByLivro()
